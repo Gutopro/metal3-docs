@@ -11,11 +11,7 @@ install them yourself.
 
 1. Install `clusterctl`, refer to Cluster API [book](https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl) for installation instructions.
 1. Install `kustomize`, refer to official instructions [here](https://kubectl.docs.kubernetes.io/installation/kustomize/).
-<<<<<<< HEAD
 1. Install Ironic, refer to [this page](../ironic/ironic_installation.html).
-=======
-1. Install Ironic, refer to [this page](https://github.com/metal3-io/metal3-docs/blob/main/docs/user-guide/src/ironic/ironic_installation.md).
->>>>>>> 74d2f2e04052a504ee03156f747298e23e2fdda1
 1. Install Baremetal Operator, refer to [this page](https://github.com/metal3-io/baremetal-operator/blob/main/docs/dev-setup.md).
 1. Install Cluster API core compoenents i.e., core, bootstrap and control-plane providers. This will also install cert-manager, if it is not already installed.
 
